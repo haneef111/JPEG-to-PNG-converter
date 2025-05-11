@@ -32,4 +32,4 @@ A simple and elegant desktop application built using **Python** and **Tkinter** 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/haneef111/JPEG-to-PNG-converter.git
-cd jpeg-to-png-converter
+cd JPEG-to-PNG-converter
